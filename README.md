@@ -1,5 +1,11 @@
 # Plotter-500
 
+This is a pen plotter set up using 500mm M10 rods; I'm aiming for a plotter that is similar to AxiDraw but supporting a larger drawing area.
+
+My personal plotter uses an Azteeg board; I will be testing with the EBB Driver Board when I have a chance as the AxiDraw / Eggbot ecosystem is fairly robust.
+
+The current version is not complete - I redesigned the center top/bottom carriages and need to fix some clearance issues.
+
 BOM: 
 
 * 2 - Nema-17 Steppers (5kg/cm torque)
